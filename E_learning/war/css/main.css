@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+
+div {
+	display:inline;
+	width:80%;
+}
+
+a.e_learning_logo {
+	color:black;
+	font-size:24px;
+}
+
+a.main_home {
+	position:relative;
+	left:0;
+}
+
+a.header_login {
+	position:relative;
+	right:0;
+}
+
+.main_left {
+	float:left;
+	width:50%;
+}
+.main_right {
+	float:right;
+	width:50%;
+}
